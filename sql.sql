@@ -179,4 +179,3 @@ Select Cast('2021-09-06 14:30:16' as datetime)
 
 --計算資料筆數
 Select Count(*) From TestUsers
-
